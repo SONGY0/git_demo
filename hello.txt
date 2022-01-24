@@ -12,3 +12,4 @@ hello
 hello
 hello2
 git test
+ssh test
